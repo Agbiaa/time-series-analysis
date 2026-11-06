@@ -1,6 +1,6 @@
-# ✈️ Analyse des séries temporelles – AirPassengers
+#  Analyse des séries temporelles – AirPassengers
 
-## 📌 Présentation du projet
+##  Présentation du projet
 
 Ce projet porte sur l'analyse des séries temporelles (*Time Series Analysis*) à travers le célèbre jeu de données **AirPassengers**, qui représente le nombre mensuel de passagers du transport aérien international entre 1949 et 1960.
 
@@ -8,7 +8,7 @@ L'objectif principal est d'étudier l'évolution du trafic aérien au cours du t
 
 Ce projet permet de mettre en pratique les principales méthodes d'analyse des séries temporelles à l'aide de Python.
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Comprendre les concepts fondamentaux des séries temporelles.
 - Explorer et visualiser les données temporelles.
@@ -19,7 +19,7 @@ Ce projet permet de mettre en pratique les principales méthodes d'analyse des s
 - Décomposer la série en composantes tendance, saisonnalité et résidus.
 - Explorer les méthodes de prévision afin d'estimer les valeurs futures.
 
-## 📊 Présentation du jeu de données
+##  Présentation du jeu de données
 
 **Nom du dataset :** AirPassengers
 
@@ -35,7 +35,7 @@ Le jeu de données AirPassengers contient le nombre mensuel de passagers du tran
 
 Ce dataset est couramment utilisé pour l'apprentissage et l'expérimentation des techniques d'analyse et de prévision des séries temporelles.
 
-## 🛠️ Technologies et bibliothèques utilisées
+##  Technologies et bibliothèques utilisées
 
 Le projet repose sur les outils et bibliothèques Python suivants :
 
@@ -48,7 +48,7 @@ Le projet repose sur les outils et bibliothèques Python suivants :
 - **Statsmodels :** analyse statistique et décomposition des séries temporelles.
 - **Scikit-learn :** outils de machine learning (si utilisés).
 
-## 🔍 Méthodologie et étapes de réalisation
+##  Méthodologie et étapes de réalisation
 
 Le projet est organisé autour des étapes suivantes :
 
@@ -106,7 +106,7 @@ L'analyse du dataset AirPassengers permet notamment de constater :
 
 Ces observations illustrent l'importance de l'analyse de la tendance et de la saisonnalité avant de construire un modèle de prévision.
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```text
 time-series-analysis/
@@ -124,7 +124,7 @@ time-series-analysis/
 
 *La structure doit être adaptée aux fichiers réellement présents dans le repository.*
 
-## 🚀 Installation et exécution du projet
+##  Installation et exécution du projet
 
 ### 1. Cloner le repository
 
@@ -154,7 +154,7 @@ jupyter notebook
 
 Ouvrir le fichier `time_series_analysis.ipynb` et exécuter les cellules dans l'ordre pour reproduire l'analyse.
 
-## 🎓 Compétences développées
+##  Compétences développées
 
 À travers ce projet, les compétences suivantes sont mises en pratique :
 
